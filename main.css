@@ -1,0 +1,11 @@
+*{
+    /* background: linear-gradient( red, black); */
+    background-color: black;
+    color: green;
+    /* color: white; */
+    
+}
+.Math{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
